@@ -1,0 +1,19 @@
+.a{
+    width: 50vw;
+    height: 50vh;
+    background-color: black; 
+    justify-content: space-between;
+    display: flex;
+    
+}
+.b{
+    width: 25%;
+    height: 50%;
+    background-color: rgb(3, 56, 3);
+}
+.c{
+    width: 25%;
+    height: 50%;
+    background-color: rgb(3, 56, 3);
+   
+}
